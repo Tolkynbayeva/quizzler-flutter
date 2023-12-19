@@ -80,6 +80,12 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "rflutter_alert",
+      "rootUri": "file:///Users/apple/.pub-cache/hosted/pub.dev/rflutter_alert-2.0.7",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "sky_engine",
       "rootUri": "file:///Users/apple/flutterDev/flutter/bin/cache/pkg/sky_engine",
       "packageUri": "lib/",
@@ -140,7 +146,7 @@
       "languageVersion": "2.12"
     }
   ],
-  "generated": "2023-12-18T13:30:48.747883Z",
+  "generated": "2023-12-19T11:03:31.590906Z",
   "generator": "pub",
   "generatorVersion": "3.2.0"
 }
